@@ -1,2 +1,2 @@
 # odin-recipes
-Hello World!
+my first odin project :D
